@@ -1,0 +1,25 @@
+ID;Text;Ano;Ne;JeOdpoved
+1;Pouziva se to k sezeni nebo lezeni?;2;8;0
+2;Je to mekke?;3;6;0
+3;Pouziva se to na spani?;A_POLSTAR;A_SEDACIVAK;0
+6;zidle;;;1
+8;Je to elektronicke zarizeni?;9;13;0
+9;Zobrazuje to obraz?;A_TELEVIZE;10;0
+10;Slouzi to k hrani hudby?;A_PIANO;A_HODINY;0
+13;Pouziva se to k psani, kresleni nebo cteni?;14;17;0
+14;Ma to stranky z papiru?;A_KNIHA;A_TABULE;0
+17;Slouzi to k ukladani veci?;A_SKRIN;18;0
+18;Slouzi to jako hudebni nastroj?;A_KYTARA;19;0
+19;Pouziva se to k haseni ohne?;A_HASICI;A_STUL;0
+
+A_POLSTAR;polstar;;;1
+A_SEDACIVAK;sedaci vak;;;1
+A_TELEVIZE;televize;;;1
+A_PIANO;piano;;;1
+A_HODINY;hodiny;;;1
+A_KNIHA;kniha;;;1
+A_TABULE;tabule;;;1
+A_SKRIN;skrin;;;1
+A_KYTARA;kytara;;;1
+A_HASICI;hasici pristroj;;;1
+A_STUL;stul;;;1
